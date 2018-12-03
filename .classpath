@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="5.5.9/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-mysql/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/hsqldb.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/iText-2.1.0.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/jasperreports-3.7.0.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/substance.jar"/>
+	<classpathentry kind="lib" path="PDFReporte by Joseloco7/PDFReporte by Joseloco7/reportePDF/lib-reportes/swing-worker-1.1.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
